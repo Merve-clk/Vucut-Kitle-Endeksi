@@ -1,1 +1,5 @@
-![FazlaKilolu](https://github.com/Merve-clk/Vucut-Kitle-Endeksi/assets/97924249/4056b56a-0ef5-4dfc-9f96-b3acfb083e1a)
+![Başlama_Ekranı](https://github.com/Merve-clk/Vucut-Kitle-Endeksi/assets/97924249/67b2ef2f-918b-4dc3-bda1-4fee7167ee76)
+![Zayıf](https://github.com/Merve-clk/Vucut-Kitle-Endeksi/assets/97924249/6f480103-aa7f-47b9-bf5f-2446d76d1615)
+![Normal](https://github.com/Merve-clk/Vucut-Kitle-Endeksi/assets/97924249/a2ef0424-9516-4015-b512-a6ac61276895)
+![FazlaKilolu](https://github.com/Merve-clk/Vucut-Kitle-Endeksi/assets/97924249/f3e96265-d7ec-4710-b17b-9b434cc1c0b6)
+![Şişman](https://github.com/Merve-clk/Vucut-Kitle-Endeksi/assets/97924249/6ad3a23f-2b79-47a8-8307-4483bbf58096)
